@@ -2,7 +2,6 @@
 
 ### 3-way handshake
 
----
 
 TCP는 장치들 사이에 논리적인 접속을 성립(establish) 하기 위하여 three-way handshake를 사용한다. 
 
@@ -27,7 +26,6 @@ TCP는 장치들 사이에 논리적인 접속을 성립(establish) 하기 위�
 
 ### 4-way handshake
 
----
 
 ![다운로드 (2)](https://user-images.githubusercontent.com/78543382/212471986-d7abd27c-2381-4c9b-b2a9-354bf9503522.png)
 
@@ -46,7 +44,6 @@ TCP는 장치들 사이에 논리적인 접속을 성립(establish) 하기 위�
 
 ### 참고자료
 
----
 
 [https://mindnet.tistory.com/entry/네트워크-쉽게-이해하기-22편-TCP-3-WayHandshake-4-WayHandshake](https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-22%ED%8E%B8-TCP-3-WayHandshake-4-WayHandshake) 
 

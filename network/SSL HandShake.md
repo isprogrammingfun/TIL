@@ -2,8 +2,6 @@
 
 ### SSL이란?
 
----
-
 - 기존 OSI 계층에서 보안 계층이라는 독자적인 프로토콜 계층을 만들어, 응용계층과 전송계층 사이에 위치한다.
 - CA (Certificate Authority)라는 인증기간에서 발급해준다.
 - 브라우저에는 CA 기관들의 목록과 공개키가 내장되어 있다.
@@ -12,7 +10,6 @@
 
 ### SSL HandShake
 
----
 
 목적: 데이터를 실제로 암호화 하기 위함 대칭키를 전달하는 것 
 
@@ -51,7 +48,6 @@
 
 ### 참고자료
 
----
 
 [https://steady-coding.tistory.com/512](https://steady-coding.tistory.com/512)
 
